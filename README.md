@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, nice to see you</h1>
 <img>
 <h2>About ME</h2>
-<p>Welcome to my page. I'm manuel a back-end developer from ![image](https://github.com/Manueh9/Manueh9/assets/125912345/68885468-372f-46ec-845b-306ccf554d06)
+<p>Welcome to my page. I'm manuel a back-end developer from 
+   ![image](https://github.com/Manueh9/Manueh9/assets/125912345/68885468-372f-46ec-845b-306ccf554d06)
    </p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
