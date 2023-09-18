@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Manuel</h1>
 
 <h3 align="left">Backend lenguagues:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 
 <h2>Social media</h2>
 ![Static Badge](https://img.shields.io/badge/Linkedin%20-%20linkedin?style=plastic&logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-garc%25C3%25ADa-rodr%25C3%25ADguez%2F)
