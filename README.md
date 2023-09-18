@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, nice to see you</h1>
 <img>
 <h2>About ME</h2>
-<p>Welcome to my page. I'm manuel a back-end developer from <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png]" width="13"/> <b>Barcelona, Spain </b></p>  
+<p>Welcome to my page. I'm manuel a back-end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Barcelona, Spain </b></p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
+![image](https://github.com/Manueh9/Manueh9/assets/125912345/af08ba7a-3adf-470c-a382-c48021d46c8a)
 
 
 <!--
