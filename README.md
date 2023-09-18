@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <img>
-<br/>
 - 📫 How to reach me **manuel.garcia.rodriguez010@gmail.com**
 <br/>
 
