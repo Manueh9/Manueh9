@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h1>Hi 👋, I'm Manuel</h1>
