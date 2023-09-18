@@ -5,9 +5,7 @@
 
 
 
-<h3 align="left">GitHub stats:</h3>
-<p align="left">
-</p>
+<h2 align="left">GitHub stats:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manueh9&" alt="manueh9" /></p>
 
 
