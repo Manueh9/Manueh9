@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <img>
 <br/>
+- 📫 How to reach me **manuel.garcia.rodriguez010@gmail.com**
+<br/>
+
+
+<!--
 <h2>About ME</h2>
 
-- 📫 How to reach me **manuel.garcia.rodriguez010@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<!--
+
 <h2 align="left">GitHub stats:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manueh9&" alt="manueh9" /></p>
 
