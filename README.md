@@ -1,2 +1,2 @@
 <h1>Hi 👋, I'm Manuel</h1>
-<About Me>
+<h2>About ME</h2>
