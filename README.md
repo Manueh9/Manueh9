@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, nice to see you</h1>
 <img>
 <h2>About ME</h2>
-<p>Welcome to my page. I'm manuel a back-end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/></p>  
+<p>Welcome to my page. I'm manuel a back-end developer from <img src="![Uploading image.png…]()
+" width="13"/> <b>Barcelona, France</b></p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
 
