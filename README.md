@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, nice to see you</h1>
 <img>
 <h2>About ME</h2>
-<p>Welcome to my page. I'm manuel a back-end developer from ![image](https://github.com/Manueh9/Manueh9/assets/125912345/9ee8ca11-5116-430b-b9fa-74546aec8a7d)
- <b>Barcelona, Spain </b></p>  
+<p>Welcome to my page. I'm manuel a back-end developer from <b>Barcelona, Spain </b></p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
 
