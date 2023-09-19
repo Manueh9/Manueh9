@@ -5,8 +5,7 @@
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
 
-![90c6698dc6f9e00bb32ffb3e21042474](https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd) width="16"
-
+<img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd">
 <!--
 
 
