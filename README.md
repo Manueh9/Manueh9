@@ -1,6 +1,6 @@
 <h1 align="center">Hi , nice to see you</h1>
 <img>
-<table border= "none"; width= "auto">
+<table border= "none", width= "auto">
   <tr>
     <td style="border: none;">
       <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" alt="Profile Image" width="40">
