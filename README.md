@@ -1,6 +1,6 @@
 <h1 align="center">Hi , nice to see you</h1>
 <img>
-<div style="display: inline-block";>
+<div style="display: flex";>
     <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="40">
     <h2>About ME</h2>
 </div>
