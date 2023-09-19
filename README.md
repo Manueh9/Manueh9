@@ -3,10 +3,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="20" alt="Profile Image">
-    </td>
-    <td>
       <h2>About ME</h2>
+      <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="20" alt="Profile Image">
     </td>
   </tr>
 </table>
