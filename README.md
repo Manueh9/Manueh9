@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/Manueh9/Manueh9/assets/125912345/29f576b8-5958-4f78-9089-b7d86602f284" width="35">, nice to see you
 
-## About ME <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="35"/>
+<p>  About ME <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="35"/></p>
 
 <p>Welcome to my page. I'm manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b></p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
