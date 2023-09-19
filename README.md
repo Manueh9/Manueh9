@@ -1,9 +1,15 @@
 <h1 align="center">Hi , nice to see you</h1>
 <img>
-<div>
-    <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="40">
-    <h2 style="display: inline-block;">About ME</h2>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="20" alt="Profile Image">
+    </td>
+    <td>
+      <h2>About ME</h2>
+    </td>
+  </tr>
+</table>
 <p>Welcome to my page. I'm manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b></p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
