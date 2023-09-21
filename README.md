@@ -3,7 +3,7 @@
 
 ## About ME <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="23"/>
 
-<p>Welcome to my page. I'm manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b></p>  
+<p>Welcome to my page. I'm manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b> . I'm a Enthusiastic junior back-end programmer, interested in having new experiences that give me the possibility of increasing my knowledge.</p>  
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 <br/>
 
