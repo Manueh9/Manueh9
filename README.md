@@ -6,7 +6,7 @@
 <p>Welcome to my page. I am Manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b> . I am an enthusiastic junior backend programmer keen to broaden my experience and enhance my knowledge.</p>  
 
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning: Python, JavaScript
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
