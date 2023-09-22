@@ -7,7 +7,6 @@
 
 - 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
 - 🌱 I’m currently learning Python, JavaScript
-- 📝 I regularly write articles on
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
