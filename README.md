@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: Python, JavaScript
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.oracle.com/es/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/5NTSNXt8/Sql-data-base-with-logo.png" alt="css3" width="60" height="30"/></a> 
@@ -29,6 +29,7 @@
 
 <h3 align="left">Methodologies </h3>
 
+<h3 align="left">Frameworks</h3>
 
 <h2 align="left">GitHub stats:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manueh9&" alt="manueh9" /></p>
