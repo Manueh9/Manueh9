@@ -18,8 +18,13 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/XN2TLk23/Extensible-Markup-Language-XML-logo-svg.png" alt="css3" width="60" height="30"/></a> 
+</p>
 
-
+<br/>
+<h3 align="left">IDES</h3>
+<p align="left"> 
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Z5PqMpzL/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc-200.png" alt="netbeans" width="40" height="40"/></a>
+</p>
 <!--
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
