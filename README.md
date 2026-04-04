@@ -1,4 +1,4 @@
- # Hi 👋  , nice to see you
+<!-- # Hi 👋  , nice to see you
 <br/>
 
 ## About ME <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="23"/>
@@ -26,7 +26,7 @@
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Z5PqMpzL/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc-200.png" alt="netbeans" width="40" height="40"/></a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/vHGsNvpm/Eclipse-2014-29.png" alt="ecipse" width="40" height="40"/></a>
 </p>
-<!--
+
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -44,7 +44,6 @@
 
 <h2>Social media<h2/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20-%20linkedin?style=plastic&logo=Linkedin&color=blue"/>
-  
- <img src="https://komarev.com/ghpvc/?username=manueh9&label=Profile%20views&color=0e75b6&style=flat" alt="manueh9" />
+<img src="https://komarev.com/ghpvc/?username=manueh9&label=Profile%20views&color=0e75b6&style=flat" alt="manueh9" />
 
 
