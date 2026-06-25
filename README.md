@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Proyectos
 
 > ### 🔐 [trycert](https://trycert.com) — Certificados verificables como servicio
 >
