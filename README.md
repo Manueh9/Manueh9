@@ -1,49 +1,59 @@
-<!-- # Hi 👋  , nice to see you
-<br/>
+<h1 align="center">¡Hola! Soy Manuel García 👋</h1>
 
-## About ME <img src="https://github.com/Manueh9/Manueh9/assets/125912345/6c22cd23-c5d7-4181-a0a8-7bad0e58becd" width="23"/>
-
-<p>Welcome to my page. I am Manuel a back-end developer from <img src="https://i.postimg.cc/RF3xXFRP/espana.png" width="13"/> <b>Barcelona, Spain </b> . I am an enthusiastic junior backend programmer keen to broaden my experience and enhance my knowledge.</p>  
-
-- 📫 How to reach me manuel.garcia.rodriguez010@gmail.com
-- 🌱 I’m currently learning: Python, JavaScript
-<br/>
-
-<h3 align="left">Languages and tools</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.oracle.com/es/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/5NTSNXt8/Sql-data-base-with-logo.png" alt="css3" width="60" height="30"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.xml.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/XN2TLk23/Extensible-Markup-Language-XML-logo-svg.png" alt="css3" width="60" height="30"/></a> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=4F8CFF&center=true&vCenter=true&width=640&lines=Web+Full-Stack+Developer;Especializado+en+Back-End+y+bases+de+datos;C%23+%C2%B7+.NET+%C2%B7+SQL+Server;Construyo+productos+propios+como+trycert" alt="Typing SVG" />
 </p>
 
-<br/>
-<h3 align="left">IDES</h3>
-<p align="left"> 
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Z5PqMpzL/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc-200.png" alt="netbeans" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/vHGsNvpm/Eclipse-2014-29.png" alt="ecipse" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuelgarc%C3%ADarodr%C3%ADguez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manuel.garcia.rodriguez.010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://trycert.com"><img src="https://img.shields.io/badge/trycert.com-0F7A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="trycert"/></a>
+  <!-- 👇 Cambia esta URL por la de tu portfolio cuando lo despliegues en Vercel -->
+  <a href="https://tu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
+---
 
+### 👨‍💻 Sobre mí
 
-<h3 align="left">Methodologies </h3>
+- 🧩 Desarrollador **Web Full-Stack** centrado en **Back-End y bases de datos**.
+- 🏢 Programador Web Full-Stack en **Sistemas de Publicaciones Informáticas** (desde 2023).
+- 🚀 Construyo productos propios y monetizables — el primero es **[trycert](https://trycert.com)**.
+- 🧱 Código limpio y mantenible: patrones de diseño, **MVC** y principios **SOLID**.
+- 📍 Barcelona, España · **abierto a nuevas oportunidades**.
 
-<h3 align="left">Frameworks</h3>
+---
 
-<h2 align="left">GitHub stats:</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manueh9&" alt="manueh9" /></p>
+### 🛠️ Tecnologías
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java,spring,py,mysql,sqlite,docker,cloudflare,vercel,git,github" alt="Stack" />
+</p>
 
+- **Lenguajes** — C# · JavaScript · SQL · Java · Python
+- **Back-end** — .NET / .NET Core · ASP.NET Web API · Entity Framework Core · LINQ
+- **Bases de datos** — SQL Server · T-SQL · PL/SQL · MySQL · SQLite
+- **Infra & deploy** — Docker · Caddy · Cloudflare · Vercel · Git
 
-<h2>Social media<h2/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20-%20linkedin?style=plastic&logo=Linkedin&color=blue"/>
-<img src="https://komarev.com/ghpvc/?username=manueh9&label=Profile%20views&color=0e75b6&style=flat" alt="manueh9" />
+---
 
+### 🚀 Proyecto destacado
 
+> ### 🔐 [trycert](https://trycert.com) — Certificados verificables como servicio
+>
+> Servicio web **API-first** para emitir certificados en PDF con identificador único, **código QR** y **página de verificación pública**. Desplegado en producción y funcional de punta a punta.
+>
+> **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
+
+---
+
+### 📊 Mis estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manueh9&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CFF&icon_color=4F8CFF&text_color=8A8AA0" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manueh9&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8CFF&text_color=8A8AA0" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><i>De la idea al deploy 🚀</i></p>
