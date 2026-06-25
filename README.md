@@ -6,9 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelgarc%C3%ADarodr%C3%ADguez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:manuel.garcia.rodriguez.010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://trycert.com"><img src="https://img.shields.io/badge/trycert.com-0F7A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="trycert"/></a>
-  <!-- 👇 Cambia esta URL por la de tu portfolio cuando lo despliegues en Vercel -->
+  <a href="mailto:manuel.garcia.rodriguez.010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>|
+  <a href="https://trycert.com"><img src="https://img.shields.io/badge/trycert.com-0F7A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="trycert"/></a>|
   <a href="https://tu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -27,7 +26,19 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java,spring,py,mysql,sqlite,docker,cloudflare,vercel,git,github" alt="Stack" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />&nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
 
 - **Lenguajes** — C# · JavaScript · SQL · Java · Python
@@ -46,14 +57,3 @@
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 
 ---
-
-### 📊 Mis estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manueh9&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CFF&icon_color=4F8CFF&text_color=8A8AA0" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manueh9&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8CFF&text_color=8A8AA0" alt="Top languages" />
-</p>
-
----
-
-<p align="center"><i>De la idea al deploy 🚀</i></p>
