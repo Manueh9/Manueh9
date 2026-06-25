@@ -38,7 +38,8 @@
   <img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" />&nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />&nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />&nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /> &nbsp;
 </p>
 
 - **Lenguajes** — C# · JavaScript · SQL · Java · Python
