@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Manuel García 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=4F8CFF&center=true&vCenter=true&width=640&lines=Web+Full-Stack+Developer;Especializado+en+Back-End+y+bases+de+datos;C%23+%C2%B7+.NET+%C2%B7+SQL+Server;Construyo+productos+propios+como+trycert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=4F8CFF&center=true&vCenter=true&width=640&lines=Web+Full-Stack+Developer;Especializado+en+Back-End+y+bases+de+datos;C%23+%C2%B7+.NET+%C2%B7+SQL+Server" alt="Typing SVG" />
 </p>
 
 <p align="center">
