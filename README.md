@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelgarc%C3%ADarodr%C3%ADguez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:manuel.garcia.rodriguez.010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://trycert.com"><img src="https://img.shields.io/badge/trycert.com-0F7A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="trycert"/></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:manuel.garcia.rodriguez.010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;&nbsp;· &nbsp;&nbsp;
+  <a href="https://trycert.com"><img src="https://img.shields.io/badge/trycert.com-0F7A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="trycert"/></a> &nbsp;&nbsp;· &nbsp;&nbsp;
   <a href="https://tu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
