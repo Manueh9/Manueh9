@@ -59,6 +59,8 @@
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
  
 ### 🚧 Proyectos en desarrollo
-> ### ✉️[MailCraft](https://email-generator-tawny.vercel.app/) — generador de emails con IA
+> ### ✉️[MailCraft](https://email-generator-tawny.vercel.app/) — Emails profesionales con IA
+> Web app donde describes tu situación —contexto, destinatario, objetivo y tono— y la IA genera el email en 3 variantes, con refinado en un clic y plantillas guardadas. Incluye **add-in para Outlook**: abre cualquier hilo, pulsa MailCraft y obtén la respuesta redactada sin salir del correo.
+> **Stack:** Next.js · React · Tailwind CSS · Supabase · Stripe · Claude API · Vercel
 
 ---
