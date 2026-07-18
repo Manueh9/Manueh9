@@ -17,7 +17,7 @@
 
 - 🧩 Desarrollador **Web Full-Stack** centrado en **Back-End y bases de datos**.
 - 🏢 Programador Web Full-Stack en **Sistemas de Publicaciones Informáticas** (desde 2023).
-- 🚀 Construyo productos propios y monetizables — el primero es **[trycert](https://trycert.com)**.
+- 🚀 Construcción de proyectos propios desde el back-end hasta el deploy.
 - 🧱 Código limpio y mantenible: patrones de diseño, **MVC** y principios **SOLID**.
 - 📍 Barcelona, España · **abierto a nuevas oportunidades**.
 
