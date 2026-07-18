@@ -58,6 +58,6 @@
 >
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 > 
-> ### 🚧 En desarrollo:** [email-generator](https://email-generator-tawny.vercel.app/) — generador de emails con IA
+> ### 🚧 En desarrollo: [MailCraft](https://email-generator-tawny.vercel.app/) — generador de emails con IA
 
 ---
