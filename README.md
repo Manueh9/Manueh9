@@ -28,6 +28,7 @@
 <p align="center">
   <img width="48" height="48" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />&nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />&nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />&nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />&nbsp;
