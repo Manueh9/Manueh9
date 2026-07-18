@@ -50,14 +50,15 @@
 
 ---
 
-### 🚀 Proyectos
+### 🚀 Proyectos en producción
 
 > ### 🔐 [trycert](https://trycert.com) — Certificados verificables como servicio
 >
 > Servicio web **API-first** para emitir certificados en PDF con identificador único, **código QR** y **página de verificación pública**. Desplegado en producción y funcional de punta a punta.
 >
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
-> 
-> ### 🚧 En desarrollo: [MailCraft](https://email-generator-tawny.vercel.app/) — generador de emails con IA
+ 
+### 🚧 Proyectos en desarrollo
+> ### ✉️[MailCraft](https://email-generator-tawny.vercel.app/) — generador de emails con IA
 
 ---
