@@ -59,7 +59,7 @@
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
  
 ### 🚧 Proyectos en desarrollo
-> ### ✉️[MailCraft] — Emails profesionales con IA
+> ### ✉️MailCraft — Emails profesionales con IA
 > 
 > Web app donde describes tu situación —contexto, destinatario, objetivo y tono— y la IA genera el email en 3 variantes, con refinado en un clic y plantillas guardadas. Incluye **add-in para Outlook**: abre cualquier hilo, pulsa MailCraft y obtén la respuesta redactada sin salir del correo.
 > 
