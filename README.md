@@ -16,7 +16,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🧩 Desarrollador **.NET** centrado en **Back-End** y en llevar el código **a producción**.
-- 🏢 Full-Stack en **Sistemas de Publicaciones Informáticas (GMAOLINX)** desde 2023 — backend, APIs y SQL Server, con Git, **Azure DevOps** y **CI/CD**.
+- 🏢 Full-Stack en **GMAOLINX** desde 2023 — backend, APIs y SQL Server, con Git, **Azure DevOps** y **CI/CD**.
 - 🚀 Construyo, despliego y **opero** mis propios proyectos de punta a punta: Docker, reverse proxy, VPS Linux, CI/CD y monitorización.
 - 🧱 Código limpio y mantenible: **MVC**, principios **SOLID** y testing.
 - 🎯 Especializándome en **Cloud/DevOps**.
