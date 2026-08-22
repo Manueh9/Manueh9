@@ -58,7 +58,7 @@
 >
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 
-> ### 🧰 [DevOps KIT CLI](https://github.com/Manueh9) — Automatización DevOps por línea de comandos
+> ### 🧰 [DevOps KIT CLI](https://github.com/Manueh9/ServerSetup_CLI) — Automatización DevOps por línea de comandos
 >
 > Herramienta **CLI en Python** que agrupa utilidades para automatizar tareas de DevOps (gestión de contenedores, despliegues y operaciones habituales). Primera versión funcional.
 >
