@@ -63,7 +63,3 @@
 > Herramienta **CLI en Python** que agrupa utilidades para automatizar tareas de DevOps (gestión de contenedores, despliegues y operaciones habituales). Primera versión funcional.
 >
 > **Stack:** Python · Typer · Docker
-
----
-
-<p align="center"><i>Del código a producción — construyendo hacia Cloud/DevOps.</i></p>
