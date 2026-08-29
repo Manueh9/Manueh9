@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Manuel García 👋</h1>
+<h1 align="center">Hi! I'm Manuel García 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Desarrollador+.NET;Del+c%C3%B3digo+a+producci%C3%B3n;C%23+%C2%B7+.NET+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=.NET+Developer;From+code+to+production;C%23+%C2%B7+.NET+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Azure" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,18 +13,18 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-- 🧩 Desarrollador **.NET** centrado en **Back-End** y en llevar el código **a producción**.
-- 🏢 Full-Stack en **GMAOLINX** desde 2023 — backend, APIs y SQL Server, con Git, **Azure DevOps** y **CI/CD**.
-- 🚀 Construyo, despliego y **opero** mis propios proyectos de punta a punta: Docker, reverse proxy, VPS Linux, CI/CD y monitorización.
-- 🧱 Código limpio y mantenible: **MVC**, principios **SOLID** y testing.
-- 🎯 Especializándome en **Cloud/DevOps**.
-- 📍 Barcelona, España · **abierto a nuevas oportunidades**.
+- 🧩 **.NET** developer focused on the **back-end** and on shipping code **to production**.
+- 🏢 Full-Stack at **GMAOLINX** since 2023 — backend, APIs and SQL Server, with Git, **Azure DevOps** and **CI/CD**.
+- 🚀 I build, deploy and **operate** my own projects end to end: Docker, reverse proxy, Linux VPS, CI/CD and monitoring.
+- 🧱 Clean, maintainable code: **MVC**, **SOLID** principles and testing.
+- 🎯 Specializing in **Cloud/DevOps**.
+- 📍 Barcelona, Spain · **open to new opportunities**.
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Tech stack
 
 <p align="center">
   <img width="48" height="48" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />&nbsp;
@@ -43,23 +43,23 @@
   <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
 
-- **Lenguajes** — C# · JavaScript · SQL · Python
-- **Back-end** — .NET / .NET Core · ASP.NET · Entity Framework Core · LINQ · APIs REST
-- **Bases de datos** — SQL Server · T-SQL · PL/SQL · MySQL · SQLite
+- **Languages** — C# · JavaScript · SQL · Python
+- **Back-end** — .NET / .NET Core · ASP.NET · Entity Framework Core · LINQ · REST APIs
+- **Databases** — SQL Server · T-SQL · PL/SQL · MySQL · SQLite
 - **Infra & DevOps** — Docker · CI/CD · GitHub Actions · Azure DevOps · Linux · Caddy · Cloudflare · Git
 
 ---
 
-### 🚀 Proyectos
+### 🚀 Projects
 
-> ### 🔐 [trycert](https://trycert.com) — Certificados verificables como servicio
+> ### 🔐 [trycert](https://trycert.com) — Verifiable certificates as a service
 >
-> Servicio web **API-first** para emitir certificados en PDF con identificador único, **código QR** y **página de verificación pública**. Desplegado en producción y funcional de punta a punta, incluyendo toda su **infraestructura y despliegue**.
+> **API-first** web service to issue PDF certificates with a unique ID, a **QR code** and a **public verification page**. Deployed in production and fully working end to end, including all of its **infrastructure and deployment**.
 >
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 
-> ### 🧰 [DevOps KIT CLI](https://github.com/Manueh9/ServerSetup_CLI) — Automatización DevOps por línea de comandos
+> ### 🧰 [DevOps KIT CLI](https://github.com/Manueh9/ServerSetup_CLI) — Command-line DevOps automation
 >
-> Herramienta **CLI en Python** que agrupa utilidades para automatizar tareas de DevOps (gestión de contenedores, despliegues y operaciones habituales). Primera versión funcional.
+> A **Python CLI** that bundles utilities to automate DevOps tasks (container management, deployments and common operations). First working version.
 >
 > **Stack:** Python · Typer · Docker
