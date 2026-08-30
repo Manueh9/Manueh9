@@ -68,7 +68,7 @@
 
 ### 🚀 Learning
 
-> ### 🐳 [Docker](https://github.com/Manueh9/docker-lab) — Docker
+> ### 🐳 [Docker](https://github.com/Manueh9/docker-lab) — Docker-Lab
 >
 > Notes and Labs from My Docker Learning Journey
 
