@@ -74,7 +74,7 @@
 >
 > 
 
-> ### 🔐 [Ciberseguridad](https://github.com/Manueh9/security-lab) — Ciberseguridad
+> ### 🔐 [Cibersecurity](https://github.com/Manueh9/security-lab) — Cibersecurity
 >
 > Notes and Labs from My Cibersecurity Learning Journey
 >
