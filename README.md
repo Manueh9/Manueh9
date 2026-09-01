@@ -77,5 +77,10 @@
 > ### 🔐 [Cibersecurity](https://github.com/Manueh9/security-lab) — Cibersecurity
 >
 > Notes and Labs from My Cibersecurity Learning Journey
+> 
+
+> ### 🤖 [Machine Learning AND IA](https://github.com/Manueh9/ml-lab) — Machine Learning AND IA
+>
+> Notes and Labs from My Machine Learning AND IA Journey
 >
 > 
