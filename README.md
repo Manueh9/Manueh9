@@ -79,8 +79,8 @@
 > Notes and Labs from My Cibersecurity Learning Journey
 > 
 
-> ### 🤖 [Machine Learning AND IA](https://github.com/Manueh9/ml-lab) — Machine Learning AND IA
+> ### 🤖 [ML/IA](https://github.com/Manueh9/ml-lab) — ML/IA
 >
-> Notes and Labs from My Machine Learning AND IA Journey
+> Notes and Labs from My ML/IA Journey
 >
 > 
