@@ -68,9 +68,9 @@
 
 ### 🚀 Learning
 
-> ### 🐳 [Docker](https://github.com/Manueh9/docker-lab) — Docker-Lab
+> ### 🐳 [Cloud DevOps](https://github.com/Manueh9/cloud-devops-lab) — Cloud DevOps
 >
-> Notes and Labs from My Docker Learning Journey
+> Notes and Labs from My Cloud DevOps Learning Journey
 >
 > 
 
