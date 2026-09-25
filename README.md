@@ -66,7 +66,7 @@
 
 ---
 
-### 🚀 Learning
+### 📚 Learning
 
 > ### 🐳 [Cloud DevOps](https://github.com/Manueh9/cloud-devops-lab) — Cloud DevOps
 >
@@ -83,4 +83,9 @@
 >
 > Notes and Labs from My ML/IA Journey
 >
-> 
+
+> ### 🧑‍💻 [LeetCode Solve Exercises](https://github.com/Manueh9/CSharp-LeetCode) — LeetCode Solve Exercises
+>
+> Exercises solved from LeetCode for practice logical and algorithms
+>
+
