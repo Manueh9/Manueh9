@@ -84,6 +84,13 @@
 > Notes and Labs from My ML/IA Journey
 >
 
+> #### 🤖 [MLP-From-Scratch]() — MLP-From-Scratch
+>
+> Notes and Labs from My MLP From Scratch
+>
+
+---
+
 > ### 🧑‍💻 [LeetCode Solve Exercises](https://github.com/Manueh9/CSharp-LeetCode) — LeetCode Solve Exercises
 >
 > Exercises solved from LeetCode for practice logical and algorithms
