@@ -84,7 +84,7 @@
 > Notes and Labs from My ML/IA Journey
 >
 
-> #### 🤖 [MLP-From-Scratch]() — MLP-From-Scratch
+> #### 🤖 [MLP-From-Scratch](https://github.com/Manueh9/mlp-from-scratch) — MLP-From-Scratch
 >
 > Notes and Labs from My MLP From Scratch
 >
