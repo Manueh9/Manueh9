@@ -64,6 +64,14 @@
 >
 > **Stack:** Python · Typer · Docker
 
+#### 🚀 Other Projects
+
+### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local Subscription Management
+> **Local-first** subscription management application to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. Built with a **REST API** and a modern web interface, running entirely on your local machine with no cloud infrastructure required.
+>
+> **Stack:** .NET 10 · ASP.NET Core Web API · C# · Entity Framework Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
+
+
 ---
 
 ### 📚 Learning
