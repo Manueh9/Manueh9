@@ -54,14 +54,6 @@
 
 ### 🚀 Projects
 
-**✅ In production**
-
-> ### 🔐 [trycert](https://trycert.com) — Verifiable certificates as a service
->
-> **API-first** web service to issue PDF certificates with a unique ID, a **QR code** and a **public verification page**. Deployed in production and fully working end to end, including all of its **infrastructure and deployment**.
->
-> **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
-
 **🟢 In active development**
 
 > ### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local subscription management
@@ -69,6 +61,14 @@
 > **Local-first** app to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. A **REST API** plus a modern web interface, running entirely on your machine with no cloud infrastructure required.
 >
 > **Stack:** .NET 10 · ASP.NET Core Web API · C# · EF Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
+
+**✅ In production**
+
+> ### 🔐 [trycert](https://trycert.com) — Verifiable certificates as a service
+>
+> **API-first** web service to issue PDF certificates with a unique ID, a **QR code** and a **public verification page**. Deployed in production and fully working end to end, including all of its **infrastructure and deployment**.
+>
+> **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 
 **⏸️ On hold**
 
