@@ -19,12 +19,12 @@
 - 🏢 Full-Stack at **GMAOLINX** since 2023 — backend, APIs and SQL Server, with Git, **Azure DevOps** and **CI/CD**.
 - 🚀 I build, deploy and **operate** my own projects end to end: Docker, reverse proxy, Linux VPS, CI/CD and monitoring.
 - 🧱 Clean, maintainable code: **MVC**, **SOLID** principles and testing.
-- 🎯 Specializing in **Cloud/DevOps**.
+- 🎯 Specializing in **Cloud/DevOps** (Azure · AZ-104), while studying **Computer Engineering** at the UOC.
 - 📍 Barcelona, Spain · **open to new opportunities**.
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ What I work with
 
 <p align="center">
   <img width="48" height="48" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />&nbsp;
@@ -45,8 +45,10 @@
 
 - **Languages** — C# · JavaScript · SQL · Python
 - **Back-end** — .NET / .NET Core · ASP.NET · Entity Framework Core · LINQ · REST APIs
-- **Databases** — SQL Server · T-SQL · PL/SQL · MySQL · SQLite
+- **Databases** — SQL Server · T-SQL · PL/SQL · MySQL · SQLite · PostgreSQL
 - **Infra & DevOps** — Docker · CI/CD · GitHub Actions · Azure DevOps · Linux · Caddy · Cloudflare · Git
+
+**Currently growing into:** Azure (AZ-104) · Terraform · Kubernetes · Observability
 
 ---
 
@@ -64,43 +66,36 @@
 >
 > **Stack:** Python · Typer · Docker
 
-#### 🚀 Other Projects
-
-### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local Subscription Management
-> **Local-first** subscription management application to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. Built with a **REST API** and a modern web interface, running entirely on your local machine with no cloud infrastructure required.
+> ### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local subscription management
 >
-> **Stack:** .NET 10 · ASP.NET Core Web API · C# · Entity Framework Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
-
+> **Local-first** app to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. A **REST API** plus a modern web interface, running entirely on your machine with no cloud infrastructure required.
+>
+> **Stack:** .NET 10 · ASP.NET Core Web API · C# · EF Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
 
 ---
 
-### 📚 Learning
+### 📚 Learning in public
 
-> ### 🐳 [Cloud DevOps](https://github.com/Manueh9/cloud-devops-lab) — Cloud DevOps
->
-> Notes and Labs from My Cloud DevOps Learning Journey
->
-> 
+Hands-on notes and labs as I specialize. Current focus: **Azure (AZ-104)**, Terraform and Kubernetes.
 
-> ### 🔐 [Cibersecurity](https://github.com/Manueh9/security-lab) — Cibersecurity
->
-> Notes and Labs from My Cibersecurity Learning Journey
-> 
-
-> ### 🤖 [ML/IA](https://github.com/Manueh9/ml-lab) — ML/IA
->
-> Notes and Labs from My ML/IA Journey
->
-
-> #### 🤖 [MLP-From-Scratch](https://github.com/Manueh9/mlp-from-scratch) — MLP-From-Scratch
->
-> Notes and Labs from My MLP From Scratch
->
+- 🐳 [cloud-devops-lab](https://github.com/Manueh9/cloud-devops-lab) — Cloud/DevOps notes & labs
+- 🔐 [security-lab](https://github.com/Manueh9/security-lab) — Cybersecurity notes & labs
+- 🤖 [ml-lab](https://github.com/Manueh9/ml-lab) — ML/AI notes & labs · [mlp-from-scratch](https://github.com/Manueh9/mlp-from-scratch) — a neural net built from scratch
+- 🧑‍💻 [CSharp-LeetCode](https://github.com/Manueh9/CSharp-LeetCode) — algorithm & logic practice in C#
 
 ---
 
-> ### 🧑‍💻 [LeetCode Solve Exercises](https://github.com/Manueh9/CSharp-LeetCode) — LeetCode Solve Exercises
->
-> Exercises solved from LeetCode for practice logical and algorithms
->
+### 🗣️ Languages
 
+- **Spanish** — Native
+- **Catalan** — C2 (bilingual)
+- **English** — B2
+
+---
+
+### 📊 GitHub in numbers
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manueh9&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manueh9&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
