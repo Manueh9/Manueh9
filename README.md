@@ -54,17 +54,7 @@
 
 ### 🚀 Projects
 
-> ### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local subscription management
->
-> **Local-first** app to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. A **REST API** plus a modern web interface, running entirely on your machine with no cloud infrastructure required.
->
-> **Stack:** .NET 10 · ASP.NET Core Web API · C# · EF Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
-
----
-
-### ⏸️ On hold
-
-Projects I've built and paused for now — still public and browsable.
+**✅ In production**
 
 > ### 🔐 [trycert](https://trycert.com) — Verifiable certificates as a service
 >
@@ -72,11 +62,29 @@ Projects I've built and paused for now — still public and browsable.
 >
 > **Stack:** .NET 10 · ASP.NET Minimal API · EF Core · SQLite · Playwright · Docker · Caddy · Cloudflare · Hetzner
 
+**🟢 In active development**
+
+> ### 💳 [Subscription Manager](https://github.com/Manueh9/SubscriptionManager) — Local subscription management
+>
+> **Local-first** app to track recurring payments, manage subscriptions, monitor price changes and visualize monthly and yearly expenses. A **REST API** plus a modern web interface, running entirely on your machine with no cloud infrastructure required.
+>
+> **Stack:** .NET 10 · ASP.NET Core Web API · C# · EF Core · SQLite · React · TypeScript · Vite · Tailwind CSS · xUnit
+
+**⏸️ On hold**
+
 > ### 🧰 [DevOps KIT CLI](https://github.com/Manueh9/ServerSetup_CLI) — Command-line DevOps automation
 >
 > A **Python CLI** that bundles utilities to automate DevOps tasks (container management, deployments and common operations). First working version.
 >
 > **Stack:** Python · Typer · Docker
+
+---
+
+### 🎓 Certifications
+
+- 🧭 **Project Management & Agile Fundamentals** — Santander Open Academy
+- 🤖 **AI & Productivity** — Google
+- ⏳ **AZ-104: Azure Administrator** — *in progress*
 
 ---
 
